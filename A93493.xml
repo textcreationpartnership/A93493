@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations relating to the woollen-manufactory, humbly offered to the great council of Parliament, by some merchants and others of the city of London, and elsewhere</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93493</idno>
+            <idno type="STC">Wing S4494D</idno>
+            <idno type="STC">ESTC R229691</idno>
+            <idno type="EEBO-CITATION">99895356</idno>
+            <idno type="PROQUEST">99895356</idno>
+            <idno type="VID">152733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations relating to the woollen-manufactory, humbly offered to the great council of Parliament, by some merchants and others of the city of London, and elsewhere</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint suggested by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152733:1"/>
+            <head>SOME CONSIDERATIONS Relating to the WOOLLEN-MANUFACTORY, Humbly offered To the great Council of PARLIAMENT, BY SOME Merchants and others of the City of <hi>London,</hi> and elſewhere.</head>
+            <p>WHereas the Woollen-Manufactory is well known to be the richeſt Treaſure in his Majeſties Domi<g ref="char:EOLhyphen"/>nions, the Strength and Sinews of this Nation; and the maintaining and encouragement thereof is of ſuch abſolute neceſſity, that it cannot be reaſon<g ref="char:EOLhyphen"/>ably expected the Nation ſhould flouriſh or proſper without the ſame:</p>
+            <p>There is hereby humbly offered to the conſideration of this honourable Houſe, the great ruine and decay of the ſaid Manufa<g ref="char:EOLhyphen"/>ctory, eſpecially as relating to the forrain Exportation thereof, for <hi>France, Flanders, Holland,</hi> and other neighbouring parts; that unleſs timely prevented, the ſame will neceſſarily more decreaſe, and at length be wholly deſtroyed.</p>
+            <p>The chief and greateſt cauſe of ſuch decay, being the private Exportation of our own and Iriſh Wooll to the aforeſaid forreign parts, in ſuch great and conſiderable quantities, that the ſame may be purchaſed there near as cheap as we can have it brought to ſeve<g ref="char:EOLhyphen"/>ral of our own Markets: the Exporter, according to computation, not gaining thereby (after running all the hazard) above 6 or 7 <hi>per Cent.</hi> By which plentiful ſupply, together with thoſe excellent me<g ref="char:EOLhyphen"/>thods practicable amongſt them, eſpecially in <hi>Holland</hi> and <hi>Zealand,</hi> for ſetting their Poor on work, they have their Goods made much the cheaper. And alſo the great Duties they impoſe on the Importation of our Woollen Manufactories, epſecially in the French Dominions, thereby they not onely beat us out of trade in moſt of their own Markets which before we ſupply'd, but may alſo be ſuſpected in ſhort time (if they continue to improve them<g ref="char:EOLhyphen"/>ſelves ſo much as of late years, and having ſuch plentiful ſupplies of our Wooll) to be able to diſpute with us for great part of our other forrain Trade in the ſaid Manufactory.</p>
+            <pb n="2" facs="tcp:152733:2"/>
+            <p>It being undeniable that the French take off few or none of our middle and low-pric'd Clothes, Stuffs, or Druggets, be<g ref="char:EOLhyphen"/>cauſe with the eaſie ſupply of our Engliſh and Iriſh Wooll, they themſelves make the ſame or other ſorts anſwerable thereto, which without the ſaid Wooll they cannot reaſonably effect to the leaſt of their own advantage, or prejudice to ours; and albeit they take from us ſome ſmall quantity of our finer ſort of Broad Cloath, yet that is the leſs conſiderable, the ſame Cloath being compoſed the moſt of Spaniſh, and the leaſt part of our own Wooll.</p>
+            <p>And as for the French Conqueſts, as <hi>Lille, Armentiers, Valen<g ref="char:EOLhyphen"/>ciennes,</hi> and other parts adjacent, it's well known that of late years they are ſo much improved in the Woollen-Manufactory, being chiefly encouraged thereto by the frequent ſupplies of our Engliſh and I<g ref="char:EOLhyphen"/>riſh Wooll, that they not alone ſupply their own and neighbou<g ref="char:EOLhyphen"/>ring Markets with the ſame, but others alſo at a conſiderable di<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>The like proves alſo true of the Inhabitants in and about <hi>Liege,</hi> whom being plentifully ſupplied with Iriſh Wooll from <hi>Holland</hi> and <hi>Zealand,</hi> have of late years ſo much increaſed in the manufacturing of Woollen, eſpecially of a ſort of low-pric'd Cloath in imitation of our Northern Dozens, that they maintain their Factors in many other parts for vending the ſame, which they alſo do at as (if not more) reaſonable rates than can be afforded from hence.</p>
+            <p>And as for <hi>Holland</hi> and <hi>Zealand,</hi> &amp;c. we are under much the ſame cimcumſtances with them as relating to the Woollen-Manufactory; it being obſervable, that what they take from us is chiefly ſome Stuffs, together with ſome few Northern Dozens, Kerſeys, and other low-pric'd goods, whereon is the leaſt advantage, and wherewith they can be furniſhed from <hi>Hull</hi> and other out-Ports at ſuch low rates, that they think it not worth their while to make the ſame, as finding a greater advantage to themſelves in the finer ſort of Woollen-Manufactories, with which they not onely ſupply their own, but alſo many forrain Markets, to our great detriment, there being nothing that can make them capable of ſo doing, but their induſtry, and methods of keeping their Poor at work, together with their frequent ſupplies of our Engliſh, Scotch, and Iriſh Wooll, and Fullers-earth.</p>
+            <p>Much more might be offered to conſideration, not onely in reſpect of the forementioned parts, but alſo of ſeveral others which lie under the ſame circumſtances; as alſo there might without much digreſſion be ſufficiently demonſtrated, the great loſs that accrews to our Nation through the Exportation of Wooll, ſo that each Pack to the value of about Ten Pound, hath been computed at near two Hundred Pound damage to the King and Kingdom, but the chief intent here<g ref="char:EOLhyphen"/>of is, by making evident in ſome degree the declining condition of the ſaid Manufactory, thereby to enforce the great neceſſity of ſome convenient method for the Re-eſtabliſhment and encouraging of the ſame; to which end the following Attempt is humbly propoſed, al<g ref="char:EOLhyphen"/>ways with ſubmiſſion to better Judgments.</p>
+            <pb n="3" facs="tcp:152733:2"/>
+            <p>It being very obſervable that the former Act of Parliament where<g ref="char:EOLhyphen"/>by the Exportation of Wooll is made Felony, hath very little con<g ref="char:EOLhyphen"/>tributed to the preventing the ſame, for that no proviſion is made thereby for the encouragement of the Informer; which if it were, yet few or none would be willing to inform againſt or proſecute a<g ref="char:EOLhyphen"/>nother (eſpecially in ſuch caſes) where their lives are concerned: It is therefore humbly propoſed, that the ſaid Clauſe in that Act may be repealed, and in ſtead thereof ſome others inſerted which may be more effectual for its intended end.</p>
+            <p>The which is humbly conceived to be, by providing a ſufficient en<g ref="char:EOLhyphen"/>couragement for the Informer, and that no Wooll ſhall be permitted to be lodged but at a convenient diſtance from the Sea-ſhore; and that if any Wooll ſhall be diſcovered within that diſtance, eſpecially after Sun-ſetting, to be carried either by Cart, Horſe, or otherwiſe, that the ſame ſhall not onely be forfeited, together with the ſaid Cart, Horſe, <hi>&amp;c.</hi> but alſo the Owners whole Eſtates; and the Driver of the ſaid Cart or Horſe to endure a years Impriſonment. And that if any Wooll ſhall be found in ſmall Package, or Screw-pack'd, that the ſame ſhall not onely be forfeited, but the perſon with whom it is found ſhall forfeit four double the value. And if it ſhall be proved that Wooll hath been carried by Cart, Horſe, or other ways within ſuch a diſtance of the Sea-coaſt as before propoſed, or that it ſhall be proved that any Wooll hath been conveyed on board, or Ex<g ref="char:EOLhyphen"/>ported from any of the ſaid Coaſts, if the ſaid Carriers, Owners, or Exporters have no Eſtate to forfeit, or are not apprehended to receive due puniſhment, the Diviſion or Hundred (as in caſes of Robberies) ſhall have a conſiderable Fine laid upon them for the ſame. And that if any Wooll be found privately conveying or conveyed on board any Veſſel, the ſame ſhall be forfeit; the Owner or Exporter thereof, if found, ſhall not onely forfeit his whole Eſtate, but alſo be tranſ<g ref="char:EOLhyphen"/>ported to ſerve on board the Galleys, together with the Maſter of the ſaid Veſſel, and his ſaid Company; or elſe to endure impriſonment proportionably. And that if any Wooll be prov'd to be exported, the Owner or Exporter thereof being made known within a year and a day after ſuch Fact committed, the ſaid Owner or Exporter ſhall not onely forfeit their whole Eſtates, but alſo be tranſported, as a<g ref="char:EOLhyphen"/>foreſaid: which is yet more favourable than Felony. And that for the greater encouragement of the Informer, although he was a perſon concern'd or imployed in the exportation of Wooll, he ſhall not onely receive his Pardon for the ſame, but alſo the propoſed Reward for his ſaid Information. And for what relates to <hi>Ireland,</hi> it's humbly propoſed, That whereas it is there cuſtomary, when Wooll is ſhipt off for <hi>England,</hi> to give Security it ſhall be delivered accordingly; yet afterwards, by procuring a Certificate, in bribing of the Officers, at ſome of the Ports of this Nation, as if the Wooll were delivered there, they get the ſaid ſecurity in <hi>Ireland</hi> to be diſcharg'd, notwithſtand<g ref="char:EOLhyphen"/>ing they carry the ſaid Wooll to forreign parts: That therefore if the Maſter of the ſaid Ship, or any of his Company, or other perſons whatſoever, ſhall within a year and a day after ſuch Fact committed,
+<pb n="4" facs="tcp:152733:3"/>make the ſame appear to ſuch Officers as ſhall be appointed to that end, ſo as that the ſaid Owner, Exporter, or Officers ſo corrupted may be ſecured, the Informer ſhall be immediately paid for his ſaid In<g ref="char:EOLhyphen"/>formation 200 <hi>l.</hi> The Owner, Exporter, or Officers ſo corrupted, ſhall forfeit their whole Eſtates, be made uncapable of ever bearing after any Office; and moreover, they ſhall (be confined to Priſon for a con<g ref="char:EOLhyphen"/>ſiderable time, or) be tranſported, as before-mentioned.</p>
+            <p>It is alſo conceived to be very neceſſary, that any Diſcoverer, or other ſingle Witneſs, though he hath profit thereby, ought to be ſuffi<g ref="char:EOLhyphen"/>cient Evidence; it being better for us to run the hazard that one man in ſeven years be injured by the perjury of an Informer, than that ſo many vile Offenders eſcape for want of Witneſs, who have no benefit by the ſeizure and evidence.</p>
+            <p>Now whereas it may be alleadg'd, that our Wooll ſo prevented from exportation will increaſe ſo much in quantity, and be brought ſo low in price at home, that the Owners, Graſiers, Farmers, <hi>&amp;c.</hi> will be thereby impoveriſhed.</p>
+            <p>Againſt which it is humbly offered, that there are two ways to pre<g ref="char:EOLhyphen"/>vent the ſaid inconveniencie: The firſt and beſt being to manufacture all the Wooll at home; the Method for which hath been already made publick by Mr. <hi>Richard Haines,</hi> and approved of by many Honourable Members of the Houſe, as well as Merchants and others.</p>
+            <p>The other is, That the Wooll of the Nation increaſing too much, it may be once in three or four years wholly deſtroy'd, and the value made good by a publick Contribution: but the many and great in<g ref="char:EOLhyphen"/>conveniencies that will conſequently follow this latter, and can ſuf<g ref="char:EOLhyphen"/>ficiently be demonſtrated, will, as is humbly conceiv'd, render the ſame altogether unpracticable.</p>
+            <p>The Conſideration of all which, is humbly repreſented to this Ho<g ref="char:EOLhyphen"/>nourable Houſe, to the intent, that when they have ſettled the Peace and Security of the Nation, care may be taken for its Welfare and Proſperity; which (as at any time ſhall be ſuffi<g ref="char:EOLhyphen"/>ciently demonſtrated) conſiſts in nothing mroe than the Im<g ref="char:EOLhyphen"/>provement and Incouragement of the Woollen-Manufactury.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
